@@ -1,0 +1,2 @@
+----Images----
+The color to use as transparent in images is (1,33,99) in RGB
